@@ -46,7 +46,7 @@ def recipientKeyed(x, file):
                        filename=file_name)  # to add an attachment to the email
     with smtplib.SMTP_SSL('smtp.gmail.com', 465) as smtp:
         smtp.login('ict1002grp45@gmail.com',
-                   'SITizens2020')  # login information. (Simulated as imported from module would be preferred)
+                   '(Your Password Here)')  # login information. (Simulated as imported from module would be preferred)
         smtp.send_message(msg)  # sends the email
 
 
