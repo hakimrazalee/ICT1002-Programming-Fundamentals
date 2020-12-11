@@ -1,0 +1,3 @@
+C:/Users/hakim/CLionProjects/ASSIGNMENT10/cmake-build-debug/CMakeFiles/ASSIGNMENT10.dir
+C:/Users/hakim/CLionProjects/ASSIGNMENT10/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/hakim/CLionProjects/ASSIGNMENT10/cmake-build-debug/CMakeFiles/rebuild_cache.dir

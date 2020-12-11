@@ -1,0 +1,3 @@
+C:/Users/hakim/OneDrive/Documents/GitHub/ICT1002-Programming-Fundamentals-/C/Lab 09/cmake-build-debug/CMakeFiles/LAB_ASSIGNMENT_09.dir
+C:/Users/hakim/OneDrive/Documents/GitHub/ICT1002-Programming-Fundamentals-/C/Lab 09/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/hakim/OneDrive/Documents/GitHub/ICT1002-Programming-Fundamentals-/C/Lab 09/cmake-build-debug/CMakeFiles/rebuild_cache.dir

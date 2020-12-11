@@ -1,0 +1,1 @@
+# NOTE: There are no readme's for the exercises.
